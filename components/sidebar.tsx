@@ -42,7 +42,7 @@ export function Sidebar() {
             <Heart className="w-6 h-6 text-white" />
           </div>
           <div>
-            <h1 className="font-bold text-lg">HealthHub</h1>
+            <h1 className="font-bold text-lg">BioSignia</h1>
             <p className="text-xs text-slate-400">Pro</p>
           </div>
         </div>
